@@ -1,0 +1,15 @@
+.DS_Store
+/.idea/
+/.vs/
+/.idea/
+/obj/
+/Temp/
+/Library/
+/Logs/
+/Builds/
+/UserSettings/
+/*.sln
+/*.csproj
+/Assets/BuildReports*
+/remote_config_data
+/ProjectSettings/AndroidLogcatSettings.asset
